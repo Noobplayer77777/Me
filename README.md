@@ -6,10 +6,10 @@ First of all,Thanks alot for visiting my page.I am **Noobplayer7 from Bangalore,
 
 <ul>
 <li> 🎯 Aim: To become a WhiteHat</li>
-<li> 🔧 Current Project: Discord Bot </li>
-<li> ❤ Preference: Java Projects </li>
+<li> 🔧 Current Project: None </li>
+<li> ❤ Preference: Python Projects </li>
 <li> 😴 Dream Project: A search engine </li>
-<li> 💻 Language I am Learning: Python </li>
+<li> 💻 Language I am Learning: C++ </li>
 </ul>
 <img src="code2.gif">
 
