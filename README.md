@@ -2,7 +2,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-First of all,Thanks alot for visiting my page.I am **Noobplayer7 from Bangalore,India**.I am a middle school code-addict student.I like making projects with an elegant and easy to use UI so anyone can easily use them. 
+First of all,Thanks alot for visiting my page.I am ** Noobplayer7 from Bangalore,India ** .I am a Uni code-addict student.I like making projects with an elegant and easy to use UI so anyone can easily use them.
 
 <ul>
 <li> 🎯 Aim: To become a WhiteHat</li>
